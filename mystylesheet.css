@@ -1,0 +1,24 @@
+#mainPage {
+    background-color: hsl(212, 45%, 89%);
+    padding: 10% 0;
+}
+#qrSection {
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    margin: auto;
+    padding: 1%;
+    border-radius: 20px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+img {
+    width: 100%;
+    border-radius: 5%;
+}
+h3 {
+    font-weight: 700;
+}
+p {
+    font-weight: 400;
+    font-size: 15px;
+}
